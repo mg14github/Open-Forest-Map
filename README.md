@@ -1,1 +1,1 @@
-# Open-Forest-Map
+# OpenForestMap
